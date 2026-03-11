@@ -30,18 +30,24 @@ These credentials allow access to the demo vault environment for evaluating the 
 ## Screenshots
 
 ### Secure Workspace
-<img width="1435" height="800" alt="dashboard_1" src="https://github.com/user-attachments/assets/08c30ee1-2e4b-48a1-a24c-b925cf6e7a3d" />
+<img width="1439" height="805" alt="Screenshot 2026-03-11 at 7 35 48 PM" src="https://github.com/user-attachments/assets/734cb20e-dcc6-433b-8b07-1501595fa308" />
+
+<img width="1440" height="808" alt="Screenshot 2026-03-11 at 7 36 03 PM" src="https://github.com/user-attachments/assets/99a3584f-e6c1-446b-a007-1830df65c6df" />
+
+<img width="1431" height="804" alt="Screenshot 2026-03-11 at 7 36 16 PM" src="https://github.com/user-attachments/assets/07cec316-b9d0-4e87-af86-34b8ed4466b4" />
 
 ### Login Page
-<img width="1433" height="796" alt="login" src="https://github.com/user-attachments/assets/f9dc1c6d-b769-4291-beb9-b2f3cf79d3c0" />
+<img width="1431" height="796" alt="Screenshot 2026-03-11 at 7 36 40 PM" src="https://github.com/user-attachments/assets/04f45643-b545-4194-9a71-b75ce0f6f0ee" />
 
 ### Signup Page
-<img width="1431" height="799" alt="signup" src="https://github.com/user-attachments/assets/4cf9edaa-b3ff-4204-93aa-7dff67ebef28" />
+<img width="1440" height="805" alt="Screenshot 2026-03-11 at 7 36 47 PM" src="https://github.com/user-attachments/assets/4c804d7d-16a5-4018-a556-668088be4cf8" />
 
 ### Vault Dashboard
-<img width="1434" height="802" alt="vault_1" src="https://github.com/user-attachments/assets/b15f1cff-6eb7-4640-9eff-78b7fcd41f1e" />
+<img width="1439" height="539" alt="Screenshot 2026-03-11 at 7 38 38 PM" src="https://github.com/user-attachments/assets/30ee5910-78fc-4d6e-bc50-ab8f97b5829c" />
 
-<img width="1314" height="549" alt="vault_2" src="https://github.com/user-attachments/assets/18c7dd52-ff93-4ab5-bbd0-cae347fc1cc3" />
+<img width="1440" height="603" alt="Screenshot 2026-03-11 at 7 38 51 PM" src="https://github.com/user-attachments/assets/17807c8b-30bd-4c7d-a2bf-0fe8bf7f4c85" />
+
+<img width="1440" height="553" alt="Screenshot 2026-03-11 at 7 38 56 PM" src="https://github.com/user-attachments/assets/d0d9a458-afb5-4da7-ac5e-297acc23e35e" />
 
 ---
 
